@@ -12,7 +12,7 @@ xcuserdata
 *.moved-aside
 DerivedData
 *.xcuserstate
-.idea
+
 .DS_Store
 .AppleDouble
 .LSOverride
